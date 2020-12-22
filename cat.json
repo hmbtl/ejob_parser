@@ -1,0 +1,173 @@
+[
+  {
+    "categories": [
+      {
+        "id": "36",
+        "cat_name": "Maliyy\u0259",
+        "sub_categories": [
+          { "id": "48", "cat_name": "Kredit m\u00fct\u0259x\u0259ssisi" },
+          { "id": "49", "cat_name": "S\u0131\u011forta" },
+          { "id": "51", "cat_name": "Audit" },
+          { "id": "52", "cat_name": "M\u00fchasibat" },
+          { "id": "57", "cat_name": "Maliyy\u0259 analiz" },
+          { "id": "150", "cat_name": "Bank xidm\u0259ti" },
+          { "id": "154", "cat_name": "Kassir" },
+          { "id": "155", "cat_name": "\u0130qtisad\u00e7\u0131" },
+          { "id": "129", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "37",
+        "cat_name": "Marketinq",
+        "sub_categories": [
+          { "id": "64", "cat_name": "Marketinq menecment" },
+          {
+            "id": "61",
+            "cat_name": "\u0130ctimay\u0259tl\u0259 \u0259laq\u0259l\u0259r"
+          },
+          { "id": "62", "cat_name": "Reklam" },
+          { "id": "60", "cat_name": "Kopiraytinq" }
+        ]
+      },
+      {
+        "id": "38",
+        "cat_name": "\u0130nformasiya texnologiyalar\u0131",
+        "sub_categories": [
+          { "id": "66", "cat_name": "Sistem idar\u0259etm\u0259si" },
+          {
+            "id": "67",
+            "cat_name": "M\u0259lumat bazas\u0131n\u0131n idar\u0259 edilm\u0259si v\u0259 inki\u015faf\u0131"
+          },
+          {
+            "id": "68",
+            "cat_name": "\u0130T m\u00fct\u0259x\u0259ssisi / m\u0259sl\u0259h\u0259t\u00e7i"
+          },
+          { "id": "69", "cat_name": "Proqramla\u015fd\u0131rma" },
+          {
+            "id": "70",
+            "cat_name": "\u0130T layih\u0259l\u0259rin idar\u0259 edilm\u0259si"
+          },
+          {
+            "id": "71",
+            "cat_name": "Texniki avadanl\u0131q m\u00fct\u0259x\u0259ssisi"
+          },
+          { "id": "72", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "44",
+        "cat_name": "\u0130nzibati",
+        "sub_categories": [
+          { "id": "105", "cat_name": "\u0130nzibati d\u0259st\u0259k" },
+          { "id": "108", "cat_name": "Menecment" },
+          { "id": "110", "cat_name": "Ofis menecmenti" },
+          { "id": "112", "cat_name": "Katib\u0259 / Resep\u015fn" },
+          { "id": "143", "cat_name": "Hey\u0259tin idar\u0259olunmas\u0131" },
+          { "id": "113", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "40",
+        "cat_name": "Sat\u0131\u015f",
+        "sub_categories": [
+          {
+            "id": "83",
+            "cat_name": "Da\u015f\u0131nmaz \u0259mlak agenti / makler"
+          },
+          {
+            "id": "86",
+            "cat_name": "Sat\u0131\u015f \u00fczr\u0259 m\u00fct\u0259x\u0259ssis"
+          }
+        ]
+      },
+      {
+        "id": "43",
+        "cat_name": "Dizayn",
+        "sub_categories": [
+          { "id": "159", "cat_name": "Veb-dizayn" },
+          { "id": "97", "cat_name": "Memar / \u0130nteryer dizayn\u0131" },
+          { "id": "99", "cat_name": "Geyim dizayn\u0131" },
+          { "id": "101", "cat_name": "R\u0259ssam" },
+          { "id": "104", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "39",
+        "cat_name": "H\u00fcquq\u015f\u00fcnasl\u0131q",
+        "sub_categories": [
+          { "id": "73", "cat_name": "V\u0259kil" },
+          { "id": "74", "cat_name": "Cinay\u0259t h\u00fcququ" },
+          { "id": "79", "cat_name": "H\u00fcquq\u015f\u00fcnas" },
+          { "id": "151", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "46",
+        "cat_name": "T\u0259hsil v\u0259 elm",
+        "sub_categories": [
+          { "id": "119", "cat_name": "M\u0259kt\u0259b t\u0259drisi" },
+          { "id": "120", "cat_name": "Universitet t\u0259drisi" },
+          { "id": "121", "cat_name": "Repetitor" },
+          { "id": "122", "cat_name": "X\u00fcsusi t\u0259hsil/ T\u0259lim" },
+          { "id": "145", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "42",
+        "cat_name": "S\u0259naye v\u0259 k\u0259nd t\u0259s\u0259rr\u00fcfat\u0131",
+        "sub_categories": [
+          {
+            "id": "91",
+            "cat_name": "Avtomatla\u015fd\u0131r\u0131lm\u0131\u015f idar\u0259etm\u0259"
+          },
+          { "id": "92", "cat_name": "Tikinti" },
+          {
+            "id": "95",
+            "cat_name": "K\u0259nd t\u0259s\u0259rr\u00fcfat\u0131"
+          },
+          { "id": "93", "cat_name": "M\u00fch\u0259ndis" },
+          { "id": "94", "cat_name": "Geologiya v\u0259 \u0259traf m\u00fchit" },
+          { "id": "96", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "133",
+        "cat_name": "Xidm\u0259t",
+        "sub_categories": [
+          { "id": "156", "cat_name": "Kuryer" },
+          { "id": "193", "cat_name": "SPA v\u0259 g\u00f6z\u0259llik" },
+          { "id": "157", "cat_name": "Xadim\u0259" },
+          { "id": "158", "cat_name": "Anbardar" },
+          { "id": "134", "cat_name": "Restoran i\u015fi" },
+          { "id": "135", "cat_name": "S\u00fcr\u00fcc\u00fc" },
+          { "id": "136", "cat_name": "Day\u0259" },
+          { "id": "137", "cat_name": "F\u0259hl\u0259" },
+          { "id": "142", "cat_name": "Turizm v\u0259 mehmanxana i\u015fi" },
+          { "id": "144", "cat_name": "T\u0259rc\u00fcm\u0259\u00e7i" },
+          { "id": "153", "cat_name": "M\u00fchafiz\u0259 xidm\u0259ti" },
+          { "id": "149", "cat_name": "Dig\u0259r" }
+        ]
+      },
+      {
+        "id": "138",
+        "cat_name": "Tibb v\u0259 \u0259cza\u00e7\u0131l\u0131q",
+        "sub_categories": [
+          { "id": "139", "cat_name": "H\u0259kim" },
+          { "id": "140", "cat_name": "Tibbi personal" },
+          { "id": "141", "cat_name": "Tibb t\u0259msil\u00e7isi" }
+        ]
+      },
+      {
+        "id": "146",
+        "cat_name": "M\u00fcxt\u0259lif",
+        "sub_categories": [
+          { "id": "148", "cat_name": "Jurnalistika" },
+          {
+            "id": "160",
+            "cat_name": "T\u0259l\u0259b\u0259l\u0259r \u00fc\u00e7\u00fcn"
+          }
+        ]
+      }
+    ]
+  }
+]
